@@ -1,0 +1,2 @@
+/usr/bin/ar qc libctk.a CMakeFiles/ctk.dir/src/string/string.c.o CMakeFiles/ctk.dir/src/core/memory.c.o CMakeFiles/ctk.dir/src/core/error.c.o CMakeFiles/ctk.dir/src/io/io.c.o CMakeFiles/ctk.dir/src/io/path.c.o CMakeFiles/ctk.dir/src/io/display.c.o CMakeFiles/ctk.dir/src/os/env.c.o
+/usr/bin/ranlib libctk.a

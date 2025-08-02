@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/nate/Code/c/ctk/test/build",
+  "command": "/usr/bin/cc  -I/home/nate/Code/c/ctk/test/../out/include -g -Wno-unused-function -Wno-pointer-sign -o CMakeFiles/test.dir/test_path.c.o -c /home/nate/Code/c/ctk/test/test_path.c",
+  "file": "/home/nate/Code/c/ctk/test/test_path.c",
+  "output": "CMakeFiles/test.dir/test_path.c.o"
+}
+]

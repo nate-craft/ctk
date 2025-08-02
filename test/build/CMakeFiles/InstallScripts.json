@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/nate/Code/c/ctk/test/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

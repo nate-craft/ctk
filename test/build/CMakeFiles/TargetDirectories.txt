@@ -1,0 +1,3 @@
+/home/nate/Code/c/ctk/test/build/CMakeFiles/test.dir
+/home/nate/Code/c/ctk/test/build/CMakeFiles/edit_cache.dir
+/home/nate/Code/c/ctk/test/build/CMakeFiles/rebuild_cache.dir

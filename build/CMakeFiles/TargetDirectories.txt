@@ -1,0 +1,7 @@
+/home/nate/Code/c/ctk/build/CMakeFiles/ctk.dir
+/home/nate/Code/c/ctk/build/CMakeFiles/edit_cache.dir
+/home/nate/Code/c/ctk/build/CMakeFiles/rebuild_cache.dir
+/home/nate/Code/c/ctk/build/CMakeFiles/list_install_components.dir
+/home/nate/Code/c/ctk/build/CMakeFiles/install.dir
+/home/nate/Code/c/ctk/build/CMakeFiles/install/local.dir
+/home/nate/Code/c/ctk/build/CMakeFiles/install/strip.dir

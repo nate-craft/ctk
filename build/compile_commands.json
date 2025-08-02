@@ -1,0 +1,44 @@
+[
+{
+  "directory": "/home/nate/Code/c/ctk/build",
+  "command": "/usr/bin/cc   -O0 -g -Wall -Wextra -Werror -Wno-unused-function -Wno-pointer-sign -o CMakeFiles/ctk.dir/src/string/string.c.o -c /home/nate/Code/c/ctk/src/string/string.c",
+  "file": "/home/nate/Code/c/ctk/src/string/string.c",
+  "output": "CMakeFiles/ctk.dir/src/string/string.c.o"
+},
+{
+  "directory": "/home/nate/Code/c/ctk/build",
+  "command": "/usr/bin/cc   -O0 -g -Wall -Wextra -Werror -Wno-unused-function -Wno-pointer-sign -o CMakeFiles/ctk.dir/src/core/memory.c.o -c /home/nate/Code/c/ctk/src/core/memory.c",
+  "file": "/home/nate/Code/c/ctk/src/core/memory.c",
+  "output": "CMakeFiles/ctk.dir/src/core/memory.c.o"
+},
+{
+  "directory": "/home/nate/Code/c/ctk/build",
+  "command": "/usr/bin/cc   -O0 -g -Wall -Wextra -Werror -Wno-unused-function -Wno-pointer-sign -o CMakeFiles/ctk.dir/src/core/error.c.o -c /home/nate/Code/c/ctk/src/core/error.c",
+  "file": "/home/nate/Code/c/ctk/src/core/error.c",
+  "output": "CMakeFiles/ctk.dir/src/core/error.c.o"
+},
+{
+  "directory": "/home/nate/Code/c/ctk/build",
+  "command": "/usr/bin/cc   -O0 -g -Wall -Wextra -Werror -Wno-unused-function -Wno-pointer-sign -o CMakeFiles/ctk.dir/src/io/io.c.o -c /home/nate/Code/c/ctk/src/io/io.c",
+  "file": "/home/nate/Code/c/ctk/src/io/io.c",
+  "output": "CMakeFiles/ctk.dir/src/io/io.c.o"
+},
+{
+  "directory": "/home/nate/Code/c/ctk/build",
+  "command": "/usr/bin/cc   -O0 -g -Wall -Wextra -Werror -Wno-unused-function -Wno-pointer-sign -o CMakeFiles/ctk.dir/src/io/path.c.o -c /home/nate/Code/c/ctk/src/io/path.c",
+  "file": "/home/nate/Code/c/ctk/src/io/path.c",
+  "output": "CMakeFiles/ctk.dir/src/io/path.c.o"
+},
+{
+  "directory": "/home/nate/Code/c/ctk/build",
+  "command": "/usr/bin/cc   -O0 -g -Wall -Wextra -Werror -Wno-unused-function -Wno-pointer-sign -o CMakeFiles/ctk.dir/src/io/display.c.o -c /home/nate/Code/c/ctk/src/io/display.c",
+  "file": "/home/nate/Code/c/ctk/src/io/display.c",
+  "output": "CMakeFiles/ctk.dir/src/io/display.c.o"
+},
+{
+  "directory": "/home/nate/Code/c/ctk/build",
+  "command": "/usr/bin/cc   -O0 -g -Wall -Wextra -Werror -Wno-unused-function -Wno-pointer-sign -o CMakeFiles/ctk.dir/src/os/env.c.o -c /home/nate/Code/c/ctk/src/os/env.c",
+  "file": "/home/nate/Code/c/ctk/src/os/env.c",
+  "output": "CMakeFiles/ctk.dir/src/os/env.c.o"
+}
+]

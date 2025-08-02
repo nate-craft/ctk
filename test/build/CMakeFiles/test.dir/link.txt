@@ -1,0 +1,1 @@
+/usr/bin/cc -g -Wl,--dependency-file=CMakeFiles/test.dir/link.d CMakeFiles/test.dir/test_path.c.o -o test   -L/home/nate/Code/c/ctk/test/../out/lib  -Wl,-rpath,/home/nate/Code/c/ctk/test/../out/lib -lctk

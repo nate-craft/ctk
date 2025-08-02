@@ -1,0 +1,10 @@
+/home/nate/Code/c/ctk/build/install/lib/libctk.a
+/home/nate/Code/c/ctk/build/install/include/ctk/collection/vector.h
+/home/nate/Code/c/ctk/build/install/include/ctk/string/string.h
+/home/nate/Code/c/ctk/build/install/include/ctk/io/io.h
+/home/nate/Code/c/ctk/build/install/include/ctk/io/display.h
+/home/nate/Code/c/ctk/build/install/include/ctk/io/path.h
+/home/nate/Code/c/ctk/build/install/include/ctk/core/type.h
+/home/nate/Code/c/ctk/build/install/include/ctk/core/error.h
+/home/nate/Code/c/ctk/build/install/include/ctk/core/memory.h
+/home/nate/Code/c/ctk/build/install/include/ctk/os/env.h
